@@ -2,6 +2,8 @@ h3 {
 	border: 1px solid gray;
 	border-radius: 25px;
 	padding: 10px;
+	background-color: white; 
+	color: #272728;
 }
 
 .art {
@@ -10,3 +12,9 @@ h3 {
 	border-radius: 25px;
 	padding: 10px;
 }
+
+h1 {
+	font-family: impact; 
+	font-size: 2em; 
+}
+
